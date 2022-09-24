@@ -1,1 +1,1 @@
-# Projeto API REST para controle de quarto de hotel
+# API REST project for Hotel Room control
